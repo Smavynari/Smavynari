@@ -1,1 +1,1 @@
-This is big code - coflict from Dev1
+This is big code - from dev2 conflict
